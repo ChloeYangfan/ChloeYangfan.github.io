@@ -1,0 +1,21 @@
+title: Yangfan's Notes
+description: Learning notes, reading notes, and reflections.
+theme: just-the-docs
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+url: https://chloeyangfan.github.io
+baseurl: ""
+
+aux_links:
+  GitHub Repo: https://github.com/ChloeYangfan/ChloeYangfan.github.io
+
+nav_sort: case_insensitive
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
