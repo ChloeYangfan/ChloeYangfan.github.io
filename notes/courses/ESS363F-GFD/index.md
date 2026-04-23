@@ -1,6 +1,7 @@
 ---
 title: ESS363F-GFD
-nav_order: 2
+parent: Courses
+nav_order: 1
 has_children: true
 ---
 
