@@ -6,6 +6,8 @@ nav_order: 2
 
 # Li et al. (2026) — Growing Impacts of Fire Smoke on Ozone Pollution and Associated Mortality Burden in the United States
 
+**Date:** 2026-05-14
+
 **Paper:** Li, Y., Jin, X., Kelp, M., Sun, H. Z., & Qiu, M. (2026). *Growing impacts of fire smoke on ozone pollution and associated mortality burden in the United States*. Science Advances, 12, eaec2903.  
 **Topic:** wildfire smoke, ozone, PM2.5, health burden, mortality, machine learning, air quality  
 **My keywords:** smoke O3, smoke PM2.5, fire emissions, ozone precursor chemistry, wildfire health impact, long-range smoke transport, pyroCb relevance
