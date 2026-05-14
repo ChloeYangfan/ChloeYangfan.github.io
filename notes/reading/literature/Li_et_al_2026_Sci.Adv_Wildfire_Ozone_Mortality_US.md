@@ -1,5 +1,5 @@
 ---
-title: "Reading Note: Fire Smoke, Ozone Pollution, and Mortality Burden"
+title: "Li et al. (2026) — Growing Impacts of Fire Smoke on Ozone Pollution and Associated Mortality Burden in the United States"
 parent: Literature
 nav_order: 2
 ---
