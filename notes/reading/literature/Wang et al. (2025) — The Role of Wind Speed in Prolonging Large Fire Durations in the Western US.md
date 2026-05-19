@@ -1,5 +1,5 @@
 ---
-title: "Reading Note: Wind Speed and Large Fire Duration in the Western US"
+title: "Wang et al. (2025) — The Role of Wind Speed in Prolonging Large Fire Durations in the Western US"
 parent: Literature
 nav_order: 3
 ---
