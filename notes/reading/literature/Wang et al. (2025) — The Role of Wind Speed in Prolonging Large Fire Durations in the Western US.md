@@ -3,7 +3,7 @@ title: "Reading Note: Wind Speed and Large Fire Duration in the Western US"
 parent: Literature
 nav_order: 3
 ---
-
+**Date:** 2026-05-19
 # Wang et al. (2025) — The Role of Wind Speed in Prolonging Large Fire Durations in the Western US
 
 **Paper:** Wang, S. S.-C., Leung, L. R., & Qian, Y. (2025). *The Role of Wind Speed in Prolonging Large Fire Durations in the Western US*. Geophysical Research Letters, 52, e2024GL112539.  
